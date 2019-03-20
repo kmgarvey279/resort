@@ -1,27 +1,28 @@
 h1 {
-  color:
+  color: DarkGoldenRod;
+  font-weight:bold;
 }
 
 h2 {
-  color:
+  color: Khaki;
 }
 
 h3 {
-  color:
+  color: darkblue;
 }
 
 p {
-  font-family:
+  font-family: monospace;
+  font-size: 200%;
 }
 
 ul {
-
+  text-align:left;
 }
 
 body {
-  background-color:
-}
-
-img{
+  background-color: Aquamarine;
+  border: 10px solid gray;
+  padding: 30px;
   text-align: center;
 }
