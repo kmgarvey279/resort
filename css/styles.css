@@ -1,5 +1,6 @@
 h1 {
   color: blue;
+  font-weight:bold;
 }
 
 h2 {
@@ -16,11 +17,12 @@ p {
 }
 
 ul {
-
+  text-align:left;
 }
 
 body {
   background-color: powderblue;
-  border: 1px solid gray;
+  border: 10px solid gray;
   padding: 30px;
+  text-align: center;
 }
